@@ -55,12 +55,6 @@ But didn't did it so that you can run it easily
 python app.py
 ```
 
-The server should start at:  
-```
-http://127.0.0.1:5050
-```
-
----
 
 ## 🧪 API Documentation
 A **Postman collection** is provided for easy testing of the APIs.  
