@@ -24,8 +24,9 @@ Key features:
 
 ### 1. Clone the Repository
 ```bash
-git clone 
-cd <your-repo-folder>
+git clone https://github.com/Darshitvarshney/Notes-App-Backend.git
+cd Notes-App-Backend
+
 ```
 
 ### 2. Create & Activate Virtual Environment
