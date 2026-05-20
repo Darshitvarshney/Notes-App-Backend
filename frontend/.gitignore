@@ -1,0 +1,4 @@
+git commit -m "Added frontend folder"/__pycache__
+__pycache__/
+/venv
+.env
